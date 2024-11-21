@@ -5,7 +5,7 @@ import {
   faXTwitter,
   faDiscord,
 } from "@fortawesome/free-brands-svg-icons";
-import { aside } from "framer-motion/client";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
