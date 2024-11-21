@@ -1,7 +1,6 @@
 import { Button } from "@/components/Button";
 import { SectionBorder } from "@/components/SectionBorder";
 import { SectionContent } from "@/components/SectionContent";
-import { li } from "framer-motion/client";
 import { twMerge } from "tailwind-merge";
 import { ButtonProps } from "@/components/Button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
